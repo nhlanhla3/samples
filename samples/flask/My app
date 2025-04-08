@@ -1,0 +1,7 @@
+my_app/
+├── app.py         # Your main Flask application code
+├── templates/     # HTML template files will go here
+│   └── index.html
+│   └── about.html
+└── static/        # CSS, JavaScript, and other static files
+    └── style.css
